@@ -10,3 +10,4 @@ myenv
 *.duckdb
 *.wal
 youtube-api-422410-d3df76a1cd66.json
+api_key.py
